@@ -1,6 +1,7 @@
 # Mulesoft-TemplateProject
 
-Este es un template que va servir para poder hacer proyectos desde 0
+Este es un template que va servir para poder hacer proyectos desde 0.
+
 Actualizado 7 de Agosto del 2020
 
 
